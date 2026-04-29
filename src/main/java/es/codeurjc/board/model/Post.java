@@ -4,7 +4,7 @@ public class Post {
 	private String username;
 	private String title;
 	private String text;
-
+//
 	public Post() {
 
 	}
