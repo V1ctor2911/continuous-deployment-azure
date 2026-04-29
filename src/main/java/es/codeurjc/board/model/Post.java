@@ -1,6 +1,6 @@
 package es.codeurjc.board.model;
 public class Post {
-
+//otra vez
 	private Long id;
 	private String username;
 	private String title;
