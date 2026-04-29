@@ -1,5 +1,4 @@
 package es.codeurjc.board.model;
-// ESto es un comentario
 public class Post {
 
 	private Long id;
